@@ -7,6 +7,6 @@ Mọi người có thể up file bằng cách
 
 3/ Bỏ vào những file code có sự thay đổi
 
-4/ add, commit, push lên repo
+4/ commit, push lên repo
 
 Sau đó kéo về để xem
