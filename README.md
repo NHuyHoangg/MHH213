@@ -9,4 +9,4 @@ Mọi người có thể up file bằng cách
 
 4/ add, commit, push lên repo
 
-Sau đó mọi người sẽ kéo về để xem
+Sau đó kéo về để xem
